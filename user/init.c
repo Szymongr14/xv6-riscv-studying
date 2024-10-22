@@ -10,7 +10,6 @@
 #include "kernel/fcntl.h"
 
 char *argv[] = { "sh", 0 };
-
 int
 main(void)
 {
